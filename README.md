@@ -1,2 +1,2 @@
 # september-mixtape
-A quick mini project to learn and practice working with CSS grids.
+A mini project to learn and practice working with CSS grids.
